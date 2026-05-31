@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Istanbul Transit Master",
+    "slug": "citytouristanbul",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hasan.citytouristanbul"
+    },
+    "android": {
+      "package": "com.hasan.citytouristanbul",
+      "adaptiveIcon": {
+        "backgroundColor": "#080b18"
+      }
+    },
+    "plugins": [
+      [
+        "react-native-maps",
+        {
+          "googleMapsApiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        }
+      ]
+    ]
+  }
+}
