@@ -14,14 +14,6 @@
       "adaptiveIcon": {
         "backgroundColor": "#080b18"
       }
-    },
-    "plugins": [
-      [
-        "react-native-maps",
-        {
-          "googleMapsApiKey": "YOUR_GOOGLE_MAPS_API_KEY"
-        }
-      ]
-    ]
+    }
   }
 }
